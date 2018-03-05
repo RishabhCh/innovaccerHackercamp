@@ -6,7 +6,7 @@ The assignment deals with finding out 10 largest files of a windows system and s
 
 The main function calls 3 functions.
 
-The listDir function recursively calls all the files of all the directories of a windows system and lists the names of all files. It also computes the size of all files.It further sorts the Desktop Files on the basis of their respective extensions and creates folder for each extension in documents and copies the desktop files to thenir respective folders.
+The listDir function recursively calls all the files of all the directories of a windows system and lists the names of all files. It also computes the size of all files.It further sorts the Desktop Files on the basis of their respective extensions and creates folder for each extension in documents and copies the desktop files to their respective folders.
 
 The sortDir function sorts the files according to size and lists 10 largest files.
 
